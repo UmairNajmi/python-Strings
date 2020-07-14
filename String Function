@@ -1,0 +1,10 @@
+# This programe will input your FULL NAME AGE QUALIFICATION and then print the result
+
+full_name = input("Please enter your full name : ")
+age = input("Your age : ")
+qualification = input("Qualification : ")
+
+print("Asslam-o-Alaekum,[full_name] is of [age] with [qualification] Degree.")
+
+# By Umair Najmi
+
